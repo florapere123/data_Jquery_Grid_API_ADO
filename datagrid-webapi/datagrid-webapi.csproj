@@ -159,6 +159,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="DB\" />
     <Folder Include="Properties\" />
     <Folder Include="UploadedFiles\images\" />
   </ItemGroup>
